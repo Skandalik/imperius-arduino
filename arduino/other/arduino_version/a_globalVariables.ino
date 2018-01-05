@@ -1,0 +1,5 @@
+#define SENSOR_ID_SIZE 20
+#define SENSOR_ID_FLAG_ADDRESS 100
+#define SENSOR_ID_INIT_FLAG 1
+
+byte sensorId[SENSOR_ID_SIZE];
